@@ -1,6 +1,19 @@
+*{
+  background-color: rgb(229, 192, 192);
+}
 #root {
   color: rgb(7, 7, 7);
 }
 #p {
   color: blue;
+}
+#input{
+  background-color: rgb(222, 240, 234);
+}
+div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
 }
